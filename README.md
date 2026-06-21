@@ -64,7 +64,7 @@ streamlit run src/main.py
 
 The application is deployed using Streamlit Community Cloud.
 
-Live Demo LinkL:
+Live Demo Link:
 https://documentappchatbot-inhpl4idgruky4wm6wqhrp.streamlit.app/
 
 ## Future Enhancements
